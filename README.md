@@ -1,4 +1,6 @@
-# News Aggregator App - React Introduction
+[![](https://raw.githubusercontent.com/fachrul-rh/website-news/main/react-news-app.gif)](https://github.com/fachrul-rh/website-news)
+
+## News Aggregator App - React Introduction
 
 ## Happy coding!
 
