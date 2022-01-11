@@ -19,4 +19,4 @@
 
 ## Sumber API
 
-https://newsapi.org/v2/
+https://newsapi.org/
