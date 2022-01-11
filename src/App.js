@@ -1,8 +1,12 @@
+import Container from './components/Container';
+
 function App() {
   return (
-    <div>
-      <h1>Hello, world!</h1>
-    </div>
+    <>
+      <Container>
+        <h1>Hello, world!</h1>
+      </Container>
+    </>
   );
 }
 
