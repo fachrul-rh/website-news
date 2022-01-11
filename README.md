@@ -2,7 +2,7 @@
 
 ## Happy coding!
 
-##### Apa yang akan kamu pelajari dari app ini?
+#### Belajar membuat aplikasi ini untuk mempelajari react
 
 - Menggunakan open/free API pada aplikasi
 - Cara melakukan remote data fetching di React dengan axios
@@ -17,4 +17,6 @@
 - Memberikan type untuk props dengan prop-types
 - CSS Module dan dynamic className dengan classnames
 
-&copy; wegodev | version 1.1.0
+## Sumber API
+
+https://newsapi.org/v2/
