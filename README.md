@@ -22,3 +22,26 @@
 ## Sumber API
 
 https://newsapi.org/
+
+### Penting
+
+_jangan lupa untuk membuat berkas .env pada folder dengan variabel sebagai berikut :_
+
+```
+REACT_APP_NEWS_API_BASE_URL=https://newsapi.org/v2/
+REACT_APP_API_KEY=<your_api_key>
+```
+
+## Untuk menjalankan aplikasi
+
+unduh semua dependencies
+
+```
+npm install
+```
+
+lalu
+
+```
+npm run start
+```
